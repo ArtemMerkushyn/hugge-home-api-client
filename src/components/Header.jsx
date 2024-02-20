@@ -1,11 +1,12 @@
-import { NavLink } from "react-router-dom";
+import { NavLink } from 'react-router-dom';
+import styles from './Header.module.css';
 
 
 export const Header = () => {
     return (
-        <div>
+        <header className={styles.header}>
             <NavLink to={'/'}>Головна</NavLink>
             <NavLink to={'/add-product'}>Добавити продукт</NavLink>
-        </div>
+        </header>
     );
 }

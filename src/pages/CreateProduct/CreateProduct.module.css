@@ -1,0 +1,42 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.form input {
+    padding: 5px 10px;
+}
+
+.name {
+    width: 440px;
+}
+
+.description {
+    width: 440px;
+    min-height: 190px;
+}
+
+.about__product {
+    width: 633px;
+    min-height: 607px;
+}
+
+.category,
+.color,
+.quantity {
+    width: 150px;
+}
+
+.price {
+    width: 300px;
+}
+
+.image {
+    width: 100%;
+}

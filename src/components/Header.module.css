@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    gap: 10px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+}
