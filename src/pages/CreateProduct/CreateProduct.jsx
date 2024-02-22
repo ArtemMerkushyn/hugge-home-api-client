@@ -132,7 +132,7 @@ export const CreateProduct = () => {
                 <option value="Green">Green</option>
                 <option value="Grey">Grey</option>
                 <option value="Red">Red</option>
-                <option value="Black">Black</option>
+                <option value="White">White</option>
                 <option value="Purple">Purple</option>
                 <option value="Yellow">Yellow</option>
                 <option value="Pink">Pink</option>
